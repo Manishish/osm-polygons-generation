@@ -18,3 +18,5 @@ Using this tool, you can get latest polygons from OSM, optionally simplified usi
 ## Live instances
 
 * http://polygons.openstreetmap.fr/
+
+## Thank you for coming
